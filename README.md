@@ -1,0 +1,2 @@
+# bico-backend
+O aplicativo Bico, tem como objetivo conectar um prestador de serviço com uma pessoa que queira contratar esse serviço, de modo geral o app mostrará serviços por tipo, proximidade e recomendação. A ideia surgiu após pensarmos na frase “você precisa do produto ou do benefício?”, com ela e com ajuda e se inspirando em empresas de venda de serviços como Netflix, Uber, Ifood, Amazon e até mesmo o próprio Linkedin, percebemos que nosso projeto pode ajudar muitas pessoas para geração de renda ou renda extra. 
